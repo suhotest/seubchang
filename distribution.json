@@ -186,16 +186,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514383,
-            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
-          }
-        },
-        {
           "id": "org.embeddedt:modernfix:5.20.3+mc1.21.4@jar",
           "name": "ModernFix",
           "type": "FabricMod",
@@ -260,7 +250,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 148,
             "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/servers.dat",
             "path": "servers.dat"
           }
@@ -270,7 +260,7 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 157,
             "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/servers.dat_old",
             "path": "servers.dat_old"
           }
