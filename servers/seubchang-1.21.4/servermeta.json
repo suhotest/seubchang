@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/seubchang/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "seubchang (Minecraft 1.21.4)",
+    "description": "seubchang Running Minecraft 1.21.4 (Fabric v0.17.0)",
+    "icon": "http://mc.gitter0.xyz:8080/a.png",
+    "address": "1.251.106.240",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "servers.dat", "servers.dat_old"]
+    }
+  ]
+}
