@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "seubchang (Minecraft 1.21.4)",
     "description": "seubchang Running Minecraft 1.21.4 (Fabric v0.17.0)",
-    "icon": "http://mc.gitter0.xyz:8080/a.png",
+    "icon": "https://github.com/suhotest/seubchang/raw/main/a.png",
     "address": "1.251.106.240",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
