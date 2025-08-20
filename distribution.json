@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1416842,
             "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
-            "url": "http://mc.gitter0.xyz:8080/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+            "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2849,
                 "MD5": "9ae9e8b35f5cb225d0c1e07616603618",
-                "url": "http://mc.gitter0.xyz:8080/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1499194,
                 "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 701826,
                 "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "url": "https://github.com/suhotest/seubchang/raw/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 163711,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/caramelChat-mc1.21.1-fabric-1.2.2.jar",
             "MD5": "59c8ae912459442c192ff5537bf17f7a"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 471072,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/entityculling-fabric-1.8.2-mc1.21.4.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/entityculling-fabric-1.8.2-mc1.21.4.jar",
             "MD5": "3704560df9067f83a263cc78e2e42c25"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 107026,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/ferritecore-7.1.1-fabric.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/ferritecore-7.1.1-fabric.jar",
             "MD5": "cddea62080b823c0c55f72408a0c3ffb"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 72821,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-1.0.0.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-1.0.0.jar",
             "MD5": "38af4a2900a8ef02e17ffb5b904de061"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 436498,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
             "MD5": "1bee2326edcced182b86154e44810971"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1050777,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
             "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 237288,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/placeholder-api-2.5.2+1.21.3.jar",
             "MD5": "80b2dea3d99621d2b76db30a0582665d"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12191569,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.5.jar",
             "MD5": "dde3cf502defa8513b1fb98afbc2dd11"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -251,7 +251,7 @@
           "type": "File",
           "artifact": {
             "size": 5274,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/files/options.txt",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -261,7 +261,7 @@
           "type": "File",
           "artifact": {
             "size": 95,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/files/servers.dat",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/servers.dat",
             "path": "servers.dat"
           }
         },
@@ -271,7 +271,7 @@
           "type": "File",
           "artifact": {
             "size": 95,
-            "url": "http://mc.gitter0.xyz:8080/servers/seubchang-1.21.4/files/servers.dat_old",
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/servers.dat_old",
             "path": "servers.dat_old"
           }
         }
