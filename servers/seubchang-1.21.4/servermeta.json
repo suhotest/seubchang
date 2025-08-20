@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/11/Documents/GitHub/seubchang/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "seubchang (Minecraft 1.21.4)",
-    "description": "seubchang Running Minecraft 1.21.4 (Fabric v0.17.0)",
+    "name": "습서버 (Minecraft 1.21.4)",
+    "description": "습서버 Running Minecraft 1.21.4 (Fabric v0.17.0)",
     "icon": "https://github.com/suhotest/seubchang/raw/main/a.png",
     "address": "1.251.106.240",
     "discord": {
