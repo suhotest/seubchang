@@ -236,6 +236,26 @@
           }
         },
         {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/config/iris-excluded.json",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -263,6 +283,28 @@
             "size": 157,
             "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/servers.dat_old",
             "path": "servers.dat_old"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip.txt",
+          "name": "ComplementaryUnbound_r5.4.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 643,
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.4.zip.txt",
+            "MD5": "4b022b09537954c8f7416353787820d4",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip.txt"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://github.com/suhotest/seubchang/raw/main/servers/seubchang-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
         }
       ]
